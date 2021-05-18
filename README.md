@@ -4,8 +4,25 @@
 
 [English](./README-en.md)
 
-## 経歴
+## スキル
 
-### 2019
++ TypeScript
++ JavaScript
++ Julia
++ Python
++ Ruby
++ C
++ C++
++ Java
++ Rust
++ Rails
++ Go
++ React
++ PHP
 
-プログラミングをC言語から学び始める
+## リンク
+
++ [Qiita](https://qiita.com/riya81)
++ [Twitter](https://twitter.com/manyuta06)
++ [Youtube](https://www.youtube.com/channel/UCzMNGxxy0m33xG0dJNtRL1g)
++ Discord(Riya#2210)

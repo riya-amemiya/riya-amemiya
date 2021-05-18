@@ -4,8 +4,25 @@ I'm a programming hobbyist.
 
 [日本語](./README.md)
 
-## History
+## Skills
 
-### 2019
++ TypeScript
++ JavaScript
++ Julia
++ Python
++ Ruby
++ C
++ C++
++ Java
++ Rust
++ Rails
++ Go
++ React
++ PHP
 
-Start learning programming from the C programming language.
+## Links
+
++ [Qiita](https://qiita.com/riya81)
++ [Twitter](https://twitter.com/manyuta06)
++ [Youtube](https://www.youtube.com/channel/UCzMNGxxy0m33xG0dJNtRL1g)
++ Discord(Riya#2210)
