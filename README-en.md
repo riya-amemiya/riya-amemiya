@@ -1,6 +1,6 @@
 # Hello! My name is Riya
 
-I'm a programming hobbyist.
+Programming is a hobby
 
 [日本語](./README.md)
 
