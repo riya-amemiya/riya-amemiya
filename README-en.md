@@ -23,6 +23,6 @@ Programming is a hobby
 ## Links
 
 + [Qiita](https://qiita.com/riya81)
-+ [Twitter](https://twitter.com/manyuta06)
++ [Twitter](https://twitter.com/Riya31377928)
 + [Youtube](https://www.youtube.com/channel/UCzMNGxxy0m33xG0dJNtRL1g)
 + Discord(Riya#2210)
