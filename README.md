@@ -27,3 +27,11 @@
 + Discord(Riya#2210)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/github-metrics.svg)
+
+![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.languages.svg)
+
+![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.starlists.languages.svg)
+
+![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
+
+![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.calendar.full.svg)
