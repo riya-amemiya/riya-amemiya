@@ -30,8 +30,10 @@
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.languages.svg)
 
-![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.starlists.svg)
+![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.stars.svg)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
+
+![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.tweets.svg)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.calendar.full.svg)

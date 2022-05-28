@@ -37,15 +37,14 @@ jobs:
           base: ""
           plugin_calendar: yes
           plugin_calendar_limit: 0
-      - name: Featured star list
+      - name: Recently starred
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.starlists.svg
-          token: NOT_NEEDED
+          filename: metrics.plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
-          plugin_starlists: yes
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_only: TC39
+          plugin_stars: yes
+          plugin_stars_limit: 3
 
       - name: GitHub Skyline
         uses: lowlighter/metrics@latest
@@ -57,6 +56,16 @@ jobs:
           plugin_skyline_year: 2022
           plugin_skyline_frames: 6
           plugin_skyline_quality: 1
+      - name: Latest tweets
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.tweets.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_tweets: yes
+          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+          plugin_tweets_user: github
+
 
 
 
