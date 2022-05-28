@@ -25,3 +25,5 @@
 + [Qiita](https://qiita.com/riya81)
 + [Twitter](https://twitter.com/Riya31377928)
 + Discord(Riya#2210)
+
+![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/github-metrics.svg)
