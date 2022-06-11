@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="227" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" class="">
     <defs>
         <style/>
     </defs>
@@ -22,14 +22,22 @@
                             github
                         </div>
                         <div class="tweet">
-                            Alleviate the pain of Identity and Access Management (IAM). We’re introducing Entitlements, our open source solution built on GitHub. Get started today!
-                            <a href="https://t.co/0gPs2jFJzt" class="link">github.blog/2022-06-09-int…</a>
-                            <div class="date">17:50:01 on 9 Jun 2022</div>
+                            🛡️ Tracking security reports and vulns
+                            <br />
+                            📱 Automating builds and releases for GitHub Mobile
+                            <br />
+                            📸 Bringing weekly team photos directly into team README
+                            <br />
+                            <br />
+                            These are some of the ways teams at GitHub use GitHub Actions. How are your teams using GitHub Actions?
+                            <a href="https://t.co/xEhE6ZaXcx" class="link">github.blog/2022-04-05-4-w…</a>
+                            <div class="date">21:10:01 on 10 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            Whether you’re a Galaxy Brain or Pull Shark - we’re celebrating you with Achievements 🥳 Check it out!
-                            <a href="https://t.co/uZtgC2D5dv" class="link">github.blog/2022-06-09-int…</a>
-                            <div class="date">15:05:01 on 9 Jun 2022</div>
+                            Are you a student who is new to open source or just starting your maintainer journey? GitHub Global Campus’ Community Exchange can help you make your first contribution or grow your project:
+                            <br />
+                            <a href="https://t.co/qG2mfJKtQq" class="link">github.co/3H655kn</a>
+                            <div class="date">21:00:05 on 10 Jun 2022</div>
                         </div>
                     </section>
                 </div>
