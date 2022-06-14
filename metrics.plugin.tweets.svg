@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="279" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="228" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,11 @@
                             github
                         </div>
                         <div class="tweet">
+                            Join us tomorrow!
+                            <a href="https://t.co/ERSRmCK78P" class="link">twitter.com/GitHubCommunit…</a>
+                            <div class="date">15:28:06 on 13 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             Take the effort out of keeping up with your dependencies. 💡
                             <br />
                             <br />
@@ -29,12 +34,6 @@
                             <a href="https://t.co/lGqhtcGbkq" class="link">github.blog/2022-04-06-how…</a>
                             <a href="https://t.co/8zxfkqtwGv" class="link">pic.twitter.com/8zxfkqtwGv</a>
                             <div class="date">22:00:11 on 12 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            ⭐ Get started with CI/CD no matter where you are in your developer journey. Check out some of our tips and tricks for getting started with CI/CD and automation with GitHub Actions.
-                            <a href="https://t.co/qtRv1ElcUU" class="link">github.blog/2022-06-03-a-b…</a>
-                            <a href="https://t.co/UjwjPzfYSk" class="link">pic.twitter.com/UjwjPzfYSk</a>
-                            <div class="date">21:02:22 on 11 Jun 2022</div>
                         </div>
                     </section>
                 </div>
