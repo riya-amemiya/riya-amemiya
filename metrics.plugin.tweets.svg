@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="310" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="227" class="">
     <defs>
         <style/>
     </defs>
@@ -22,29 +22,19 @@
                             github
                         </div>
                         <div class="tweet">
+                            To avoid a single point of failure,
+                            <span class="mention">@FrancesCoronel</span>
+                            stresses the importance of building an inclusive, welcoming project environment that fosters support and ownership.
+                            <a href="https://t.co/AmUAEb8194" class="link">github.com/readme/stories…</a>
+                            <div class="date">18:07:01 on 19 Jun 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@GHSecurityLab</span>
                             : In this blog post
                             <span class="mention">@mmolgtm</span>
                             shows how to bypass various modern mitigation implemented in the Android kernel and exploit C…
                             <div class="date">16:16:19 on 17 Jun 2022</div>
-                        </div>
-                        <div class="tweet">
-                            🚀 This month's Release Radar features 3D printing, database management, projects for content creators, and more 🚀
-                            <br />
-                            <br />
-                            Congrats to
-                            <span class="mention">@Ghost</span>
-                            , Cura, FX, Apollo,
-                            <span class="mention">@SnipeITapp</span>
-                            , and Enioka Scan on shipping major updates.
-                            <br />
-                            <br />
-                            Read all our May 2022 staff picks 👇
-                            <br />
-                            <a href="https://t.co/xYxdQnMfUx" class="link">github.blog/2022-06-16-rel…</a>
-                            <a href="https://t.co/BT6fNQ5IcF" class="link">pic.twitter.com/BT6fNQ5IcF</a>
-                            <div class="date">23:00:09 on 16 Jun 2022</div>
                         </div>
                     </section>
                 </div>
