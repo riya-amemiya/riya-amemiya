@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" class="">
     <defs>
         <style/>
     </defs>
@@ -22,19 +22,20 @@
                             github
                         </div>
                         <div class="tweet">
-                            Lists are now available on GitHub Mobile for Android! You can create public lists by starring a repo anywhere in the app. You can also delete lists, manage your Lists' titles and descriptions and see other's Lists.
+                            Mark your calendars—for the first time ever,
+                            <span class="hashtag">#GitHubUniverse</span>
+                            will be both in-person and streaming online on Nov. 9-10. We'll see you there!
                             <br />
                             <br />
-                            Download for iOS and Android:
-                            <a href="https://t.co/vQBkyZeXrJ" class="link">github.com/mobile</a>
-                            <a href="https://t.co/67V42O5Fo6" class="link">pic.twitter.com/67V42O5Fo6</a>
-                            <div class="date">18:00:17 on 28 Jun 2022</div>
+                            Find out more:
+                            <a href="https://t.co/mL2m8UDClX" class="link">github.co/3y37pEW</a>
+                            <a href="https://t.co/cDYJb1NEYA" class="link">pic.twitter.com/cDYJb1NEYA</a>
+                            <div class="date">21:52:02 on 29 Jun 2022</div>
                         </div>
                         <div class="tweet">
-                            That's one serious contribution graph.
-                            <span class="hashtag">#irlcontributiongraph</span>
-                            <a href="https://t.co/mK3AmrYQq8" class="link">pic.twitter.com/mK3AmrYQq8</a>
-                            <div class="date">23:30:03 on 27 Jun 2022</div>
+                            Git 2.37.0 is here, and it includes a brand new file system monitor for macOS and Windows. Learn how this feature can speed up your development in large Git repositories.
+                            <a href="https://t.co/i0g7pZcZV6" class="link">github.co/3AgheSy</a>
+                            <div class="date">21:26:37 on 29 Jun 2022</div>
                         </div>
                     </section>
                 </div>
