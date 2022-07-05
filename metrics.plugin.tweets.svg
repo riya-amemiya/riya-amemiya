@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="327" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="344" class="">
     <defs>
         <style/>
     </defs>
@@ -22,6 +22,14 @@
                             github
                         </div>
                         <div class="tweet">
+                            Use Markdown to show your GitHub Actions job summaries in a way that works best for you.
+                            <br />
+                            <br />
+                            See how you can start using this today ⬇️
+                            <a href="https://t.co/dDDtlAjXcy" class="link">github.blog/2022-05-09-sup…</a>
+                            <div class="date">16:21:00 on 4 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             Using GitHub Actions to build a CI/CD pipeline has many advantages 💪
                             <br />
                             <br />
@@ -37,11 +45,6 @@
                             Get building today!
                             <a href="https://t.co/UUv8bjwHii" class="link">github.blog/2022-02-02-bui…</a>
                             <div class="date">21:05:00 on 3 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            Looking for a Sunday read? Here's a fascinating look into what a generation of programmers learnt from hacking AOL in the '90s.
-                            <a href="https://t.co/L7RfwoNVey" class="link">github.com/readme/feature…</a>
-                            <div class="date">17:52:00 on 3 Jul 2022</div>
                         </div>
                     </section>
                 </div>
