@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="277" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="294" class="">
     <defs>
         <style/>
     </defs>
@@ -22,21 +22,25 @@
                             github
                         </div>
                         <div class="tweet">
-                            Looking for a Sunday read? Discover the story behind Astropy, the open source technology being used to help the James Webb Space Telescope produce those amazing images.
-                            <a href="https://t.co/ytq2Q5bbBv" class="link">github.com/readme/feature…</a>
-                            <br />
-                            <br />
-                            📸 : NASA, ESA, CSA, and STScI
-                            <a href="https://t.co/4KuXY96DSf" class="link">pic.twitter.com/4KuXY96DSf</a>
-                            <div class="date">19:30:46 on 17 Jul 2022</div>
+                            RT
+                            <span class="mention">@GitHubEducation</span>
+                            : 🚀 Ready, Set, Launch! Gear up for our new Hackathon in The Cloud Experience. The Hackathon in the Cloud Experience giv…
+                            <div class="date">21:47:23 on 18 Jul 2022</div>
                         </div>
                         <div class="tweet">
-                            RT
-                            <span class="mention">@GitHubEnt</span>
-                            : Want to learn how to use GitHub Actions to deploy storefronts?
-                            <span class="mention">@Shopify</span>
-                            shares the secret to success, and how you can levera…
-                            <div class="date">02:58:56 on 16 Jul 2022</div>
+                            The newest issue of Open Source Monthly is fresh off the press!
+                            <br />
+                            <br />
+                            In this issue,
+                            <span class="mention">@blackgirlbytes</span>
+                            describes how
+                            <span class="mention">@zag_js</span>
+                            leverages state machines to make framework agnostic components and how
+                            <span class="mention">@MLHacks</span>
+                            fellows contributed to GitHub Docs.
+                            <a href="https://t.co/QYpjhSi0Zj" class="link">github.blog/2022-07-18-ope…</a>
+                            <a href="https://t.co/BNKiymwDkx" class="link">pic.twitter.com/BNKiymwDkx</a>
+                            <div class="date">17:00:11 on 18 Jul 2022</div>
                         </div>
                     </section>
                 </div>
