@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="294" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" class="">
     <defs>
         <style/>
     </defs>
@@ -22,25 +22,17 @@
                             github
                         </div>
                         <div class="tweet">
+                            Looking to fine-tune your CI/CD pipeline? GitHub's
+                            <span class="mention">@Damovisa</span>
+                            shares tips on core things everyone should build into their CI/CD pipeline that you probably aren't thinking about yet.
+                            <a href="https://t.co/dEIWmWI6bx" class="link">github.blog/2022-07-19-6-s…</a>
+                            <div class="date">17:00:03 on 19 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             RT
                             <span class="mention">@GitHubEducation</span>
                             : 🚀 Ready, Set, Launch! Gear up for our new Hackathon in The Cloud Experience. The Hackathon in the Cloud Experience giv…
                             <div class="date">21:47:23 on 18 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            The newest issue of Open Source Monthly is fresh off the press!
-                            <br />
-                            <br />
-                            In this issue,
-                            <span class="mention">@blackgirlbytes</span>
-                            describes how
-                            <span class="mention">@zag_js</span>
-                            leverages state machines to make framework agnostic components and how
-                            <span class="mention">@MLHacks</span>
-                            fellows contributed to GitHub Docs.
-                            <a href="https://t.co/QYpjhSi0Zj" class="link">github.blog/2022-07-18-ope…</a>
-                            <a href="https://t.co/BNKiymwDkx" class="link">pic.twitter.com/BNKiymwDkx</a>
-                            <div class="date">17:00:11 on 18 Jul 2022</div>
                         </div>
                     </section>
                 </div>
