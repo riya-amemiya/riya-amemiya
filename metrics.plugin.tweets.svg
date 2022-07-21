@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="244" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="260" class="">
     <defs>
         <style/>
     </defs>
@@ -22,17 +22,16 @@
                             github
                         </div>
                         <div class="tweet">
+                            Did you know our teams frequently partner with the academic community to help build the best developer experience on GitHub? Check out some of the research that helped inform the development of GitHub Discussions to work even better for you. 🤝
+                            <a href="https://t.co/BErtrFvCpv" class="link">github.blog/2022-07-20-her…</a>
+                            <div class="date">17:21:00 on 20 Jul 2022</div>
+                        </div>
+                        <div class="tweet">
                             Looking to fine-tune your CI/CD pipeline? GitHub's
                             <span class="mention">@Damovisa</span>
                             shares tips on core things everyone should build into their CI/CD pipeline that you probably aren't thinking about yet.
                             <a href="https://t.co/dEIWmWI6bx" class="link">github.blog/2022-07-19-6-s…</a>
                             <div class="date">17:00:03 on 19 Jul 2022</div>
-                        </div>
-                        <div class="tweet">
-                            RT
-                            <span class="mention">@GitHubEducation</span>
-                            : 🚀 Ready, Set, Launch! Gear up for our new Hackathon in The Cloud Experience. The Hackathon in the Cloud Experience giv…
-                            <div class="date">21:47:23 on 18 Jul 2022</div>
                         </div>
                     </section>
                 </div>
