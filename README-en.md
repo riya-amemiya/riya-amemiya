@@ -24,4 +24,5 @@ My hobby is programming.
 
 + [Qiita](https://qiita.com/riya81)
 + [Twitter](https://twitter.com/Riya31377928)
-+ Discord(Riya#2210)
++ Discord(riyaamemiya#2526)
++ [Zenn](https://zenn.dev/riya_amemiya)
