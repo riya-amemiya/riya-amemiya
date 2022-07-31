@@ -27,9 +27,13 @@
 + Discord(Riya#2210)
 + [Zenn](https://zenn.dev/riya_amemiya)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya)](https://github.com/anuraghazra/github-readme-stats)
+</a>
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
 
