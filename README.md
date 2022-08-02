@@ -4,15 +4,12 @@
 
 [English](./README-en.md)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="left">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
-</a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true">
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true">
-</a>
 
 ## スキル
 
