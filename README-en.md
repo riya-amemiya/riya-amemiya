@@ -32,9 +32,10 @@ My hobby is programming.
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
 
