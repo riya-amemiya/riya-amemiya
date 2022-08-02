@@ -35,7 +35,7 @@ My hobby is programming.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
 </a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
 
