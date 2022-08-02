@@ -5,11 +5,11 @@ My hobby is programming.
 [日本語](./README.md)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true">
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=4)](https://github.com/ryo-ma/github-profile-trophy)
