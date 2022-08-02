@@ -8,11 +8,11 @@ My hobby is programming.
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true">
 </a>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Skills
 
