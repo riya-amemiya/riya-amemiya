@@ -32,7 +32,7 @@
 
 ## リンク
 
-+ [Qiita](https://qiita.com/riya81)
++ [Qiita](https://qiita.com/Riya-oshaburikitchin)
 + [Twitter](https://twitter.com/Riya31377928)
 + Discord(riyaamemiya#2526)
 + [Zenn](https://zenn.dev/riya_amemiya)
