@@ -20,6 +20,7 @@ My hobby is programming.
 + JavaScript
 + Julia
 + Python
++ Cython
 + Ruby
 + C
 + C++
@@ -29,6 +30,12 @@ My hobby is programming.
 + Go
 + React
 + PHP
++ Gatsby
++ Next.js
++ Recoil
++ Material-UI
++ Tailwind CSS
++ Wasm
 
 ## Links
 

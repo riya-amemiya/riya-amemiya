@@ -20,6 +20,7 @@
 + JavaScript
 + Julia
 + Python
++ Cython
 + Ruby
 + C
 + C++
@@ -29,6 +30,12 @@
 + Go
 + React
 + PHP
++ Gatsby
++ Next.js
++ Recoil
++ Material-UI
++ Tailwind CSS
++ Wasm
 
 ## リンク
 
