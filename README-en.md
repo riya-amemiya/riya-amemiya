@@ -4,6 +4,8 @@ My hobby is programming.
 
 [日本語](./README.md)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z3GGLNZ)
+
 <p align="left">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true">
