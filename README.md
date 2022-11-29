@@ -43,8 +43,9 @@
 
 + [Qiita](https://qiita.com/Riya-oshaburikitchin)
 + [Twitter](https://twitter.com/Riya31377928)
-+ Discord(riyaamemiya#2526)
 + [Zenn](https://zenn.dev/riya_amemiya)
++ [YouTube](https://www.youtube.com/channel/UCzww3KRaSOy7CpWWRXREv1g)
++ [Amazon](https://www.amazon.jp/hz/wishlist/ls/2TJIXKMK13CIJ?ref_=wl_share)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
 
