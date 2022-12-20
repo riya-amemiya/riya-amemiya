@@ -16,9 +16,9 @@
 [![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-<figure><embed src="https://wakatime.com/share/@riya_amemiya/4605e65f-821f-4cc1-9b30-7f13f7c356d9.svg"></embed></figure>
+<img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/4605e65f-821f-4cc1-9b30-7f13f7c356d9.svg" />
 
-<figure><embed src="https://wakatime.com/share/@riya_amemiya/d3ed3929-9a2a-4c22-8d7f-ac1bcc44bb83.svg"></embed></figure>
+<img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/d3ed3929-9a2a-4c22-8d7f-ac1bcc44bb83.svg" />
 
 ## スキル
 
