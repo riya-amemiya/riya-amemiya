@@ -18,8 +18,6 @@
 
 <img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/4605e65f-821f-4cc1-9b30-7f13f7c356d9.svg" />
 
-<img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/d3ed3929-9a2a-4c22-8d7f-ac1bcc44bb83.svg" />
-
 ## スキル
 
 + TypeScript
