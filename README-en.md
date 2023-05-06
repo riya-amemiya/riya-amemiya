@@ -11,14 +11,11 @@ My hobby is programming.
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=riya-amemiya&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
 <img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/4605e65f-821f-4cc1-9b30-7f13f7c356d9.svg" />
 
 ## Skills
+
+### Languages
 
 + TypeScript
 + JavaScript
@@ -30,15 +27,29 @@ My hobby is programming.
 + C++
 + Java
 + Rust
-+ Rails
 + Go
-+ React
 + PHP
+
+### Frameworks & Libraries
+
++ React
 + Gatsby
 + Next.js
 + Recoil
 + Material-UI
 + Tailwind CSS
++ NextAuth.js
++ Rails
++ Nest.js
++ Storybook
++ UMT
+
+### Tests
+
++ Jest
+
+### Others
+
 + Wasm
 
 ## Links
