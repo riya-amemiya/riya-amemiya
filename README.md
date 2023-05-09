@@ -1,5 +1,7 @@
 # 初めまして! Riyaです!
 
+[![wakatime](https://wakatime.com/badge/user/eae142f3-5e4b-4e20-b3ca-d5d6d5a13e07.svg)](https://wakatime.com/@eae142f3-5e4b-4e20-b3ca-d5d6d5a13e07)
+
 趣味でプログラミングやってます
 
 [English](./README-en.md)
