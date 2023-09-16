@@ -13,6 +13,13 @@ My hobby is programming.
 
 <img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/4605e65f-821f-4cc1-9b30-7f13f7c356d9.svg" />
 
+<a href="https://app.daily.dev/riyaamemiya"><img src="https://api.daily.dev/devcards/e0b649ca9e13408099f4eea5648c7cd5.png?r=5pg" width="400" alt="Riya Amemiya's Dev Card"/></a>
+
+## OSS Contributions
+
++ [guidance](https://github.com/guidance-ai/guidance)
++ [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)
+
 ## Skills
 
 ### Languages
@@ -43,6 +50,7 @@ My hobby is programming.
 + Nest.js
 + Storybook
 + UMT
++ Astro
 
 ### Tests
 
@@ -51,6 +59,7 @@ My hobby is programming.
 ### Others
 
 + Wasm
++ Bun
 
 ## Links
 

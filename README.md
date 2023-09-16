@@ -23,6 +23,13 @@
 
 </div>
 
+<a href="https://app.daily.dev/riyaamemiya"><img src="https://api.daily.dev/devcards/e0b649ca9e13408099f4eea5648c7cd5.png?r=5pg" width="400" alt="Riya Amemiya's Dev Card"/></a>
+
+## OSSコントリビューション
+
++ [guidance](https://github.com/guidance-ai/guidance)
++ [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)
+
 ## スキル
 
 ### 言語
@@ -53,6 +60,7 @@
 + Nest.js
 + Storybook
 + UMT
++ Astro
 
 ### テスト
 
@@ -61,6 +69,7 @@
 ### その他
 
 + Wasm
++ Bun
 
 ## リンク
 
