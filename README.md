@@ -32,7 +32,7 @@
 
 ## 資格
 
-![G検定](/img/general2023#4_regular.png)
+![G検定](/img/general2023_4_regular.png)
 
 ## スキル
 
