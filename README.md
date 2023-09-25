@@ -30,6 +30,10 @@
 + [guidance](https://github.com/guidance-ai/guidance)
 + [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)
 
+## 資格
+
+![G検定](/img/general2023#4_regular.png)
+
 ## スキル
 
 ### 言語
