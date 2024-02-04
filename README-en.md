@@ -24,6 +24,8 @@ My hobby is programming.
 
 ![G検定](/img/general2023_4_regular.png)
 
++ Python 3 Certified Practical Engineer
+
 ## Skills
 
 ### Languages

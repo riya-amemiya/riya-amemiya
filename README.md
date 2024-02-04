@@ -34,6 +34,8 @@
 
 ![G検定](/img/general2023_4_regular.png)
 
++ Python3 エンジニア認定実践試験合格者
+
 ## スキル
 
 ### 言語
