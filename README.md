@@ -6,7 +6,7 @@
 
 [English](./README-en.md)
 
-<script src="https://tryhackme.com/badge/2733691"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/riyaamemiya.png" alt="TryHackMe">
 
 <p align="left">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
