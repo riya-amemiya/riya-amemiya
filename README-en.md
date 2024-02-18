@@ -4,7 +4,7 @@ My hobby is programming.
 
 [日本語](./README.md)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z3GGLNZ)
+<script src="https://tryhackme.com/badge/2733691"></script>
 
 <p align="left">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact" />
