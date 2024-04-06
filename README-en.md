@@ -13,8 +13,6 @@ My hobby is programming.
 
 <img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/4605e65f-821f-4cc1-9b30-7f13f7c356d9.svg" />
 
-<a href="https://app.daily.dev/riyaamemiya"><img src="https://api.daily.dev/devcards/e0b649ca9e13408099f4eea5648c7cd5.png?r=5pg" width="400" alt="Riya Amemiya's Dev Card"/></a>
-
 ## OSS Contributions
 
 + [guidance](https://github.com/guidance-ai/guidance)
@@ -28,49 +26,67 @@ My hobby is programming.
 
 ## Skills
 
-### Languages
+### WebFrontend
 
-+ TypeScript
-+ JavaScript
-+ Julia
-+ Python
-+ Cython
-+ Ruby
-+ C
-+ C++
-+ Java
-+ Rust
-+ Go
-+ PHP
+#### Languages
 
-### Frameworks & Libraries
+[![Frontend](https://skillicons.dev/icons?i=html,css,sass,js,ts,wasm)](https://skillicons.dev)
 
-+ React
-+ Gatsby
-+ Next.js
-+ Recoil
-+ Material-UI
-+ Tailwind CSS
-+ NextAuth.js
-+ Rails
-+ Nest.js
-+ Storybook
-+ UMT
-+ Astro
+#### Frameworks & Libraries
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,gatsby,remix,astro,jquery,redux)](https://skillicons.dev)
+
+#### CSS Frameworks
+
+[![Frontend](https://skillicons.dev/icons?i=tailwindcss,mui,bootstrap)](https://skillicons.dev)
+
+### Backend
+
+#### Languages
+
+[![Backend](https://skillicons.dev/icons?i=python,js,ts,ruby,php,go,rust,c,cpp,zig,graphql)](https://skillicons.dev)
+
+#### Frameworks & Libraries
+
+[![Backend](https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs,rails,laravel,rocket)](https://skillicons.dev)
+
+#### Servers
+
+[![Backend](https://skillicons.dev/icons?i=vercel,firebase,supabase,nodejs)](https://skillicons.dev)
+
+#### WAF
+
+[![Waf](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
 
 ### Tests
 
-+ Jest
+[![Tests](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 
-### Others
+### Databases & ORM
 
-+ Wasm
-+ Bun
+[![Databases&ORM](https://skillicons.dev/icons?i=postgresql,mysql,sqlite,redis,prisma)](https://skillicons.dev)
+
+### DevOps
+
+[![DevOps](https://skillicons.dev/icons?i=git,github,gitlab,ghactions,docker,k8s)](https://skillicons.dev)
+
+### OS
+
+[![OS](https://skillicons.dev/icons?i=windows,linux,apple,kali,ubuntu)](https://skillicons.dev)
+
+### IDE & Editor
+
+[![IDE & Editor](https://skillicons.dev/icons?i=vscode,vim)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=npm,yarn,pnpm,bun,webpack,vite,babel,figma,notion)](https://skillicons.dev)
 
 ## Links
 
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Riya31377928)
+
 + [Qiita](https://qiita.com/Riya-oshaburikitchin)
-+ [Twitter](https://twitter.com/Riya31377928)
 + [Zenn](https://zenn.dev/riya_amemiya)
 + [YouTube](https://www.youtube.com/channel/UCzww3KRaSOy7CpWWRXREv1g)
 + [Amazon](https://www.amazon.jp/hz/wishlist/ls/2TJIXKMK13CIJ?ref_=wl_share)
