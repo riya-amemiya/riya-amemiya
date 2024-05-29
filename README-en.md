@@ -35,7 +35,7 @@ My hobby is programming.
 
 #### Frameworks & Libraries
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,gatsby,remix,astro,jquery,redux)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,gatsby,remix,astro,jquery,redux,angular)](https://skillicons.dev)
 
 #### CSS Frameworks
 
