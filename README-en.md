@@ -59,6 +59,10 @@ My hobby is programming.
 
 [![Waf](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
 
+#### Cloud
+
+[![Cloud](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
+
 ### Tests
 
 [![Tests](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
