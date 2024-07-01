@@ -63,15 +63,11 @@
 
 #### Servers
 
-[![Backend](https://skillicons.dev/icons?i=vercel,firebase,supabase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=vercel,firebase,supabase,nodejs,gcp)](https://skillicons.dev)
 
 #### WAF
 
 [![Waf](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev)
-
-#### Cloud
-
-[![Cloud](https://skillicons.dev/icons?i=gcp)](https://skillicons.dev)
 
 ### Tests
 
