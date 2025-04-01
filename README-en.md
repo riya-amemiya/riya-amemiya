@@ -8,6 +8,8 @@ My hobby is programming.
 
 [UMT](https://github.com/riya-amemiya/UMT)
 
+## Profile
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/riyaamemiya.png" alt="TryHackMe">
 
 <p align="left">
