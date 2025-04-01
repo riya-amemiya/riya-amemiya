@@ -4,7 +4,7 @@ My hobby is programming.
 
 [日本語](./README.md)
 
-## My OSS
+## OSS
 
 [UMT](https://github.com/riya-amemiya/UMT)
 
