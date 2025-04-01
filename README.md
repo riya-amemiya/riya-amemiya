@@ -8,9 +8,9 @@
 
 ## 私のOSS
 
-[UMT](https://github.com/riya-amemiya/UMT)
-[ポートフォリオ](https://github.com/riya-amemiya/links)
-[記事一覧](https://github.com/riya-amemiya/amemiya_riya_zenn_data)
+- [UMT](https://github.com/riya-amemiya/UMT)
+- [ポートフォリオ](https://github.com/riya-amemiya/links)
+- [記事一覧](https://github.com/riya-amemiya/amemiya_riya_zenn_data)
 
 ## プロフィール
 
