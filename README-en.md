@@ -6,7 +6,9 @@ My hobby is programming.
 
 ## OSS
 
-[UMT](https://github.com/riya-amemiya/UMT)
+- [UMT](https://github.com/riya-amemiya/UMT)
+- [Portfolio](https://github.com/riya-amemiya/links)
+- [Articles](https://github.com/riya-amemiya/amemiya_riya_zenn_data)
 
 ## Profile
 
