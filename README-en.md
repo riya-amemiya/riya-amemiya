@@ -77,7 +77,7 @@ My hobby is programming.
 
 ### DevOps
 
-[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,gitlab,ghactions,docker,k8s)](https://skillicons.dev)
+[![DevOps](https://go-skill-icons.vercel.app/api/icons?i=git,github,ghactions,docker)](https://skillicons.dev)
 
 ### OS
 
