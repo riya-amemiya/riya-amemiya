@@ -33,15 +33,15 @@
 
 ## OSSコントリビューション
 
-+ [guidance](https://github.com/guidance-ai/guidance)
-+ [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)
-+ [pr-agent](https://github.com/Codium-ai/pr-agent)
+- [guidance](https://github.com/guidance-ai/guidance)
+- [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)
+- [pr-agent](https://github.com/Codium-ai/pr-agent)
 
 ## 資格
 
 ![G検定](/img/general2023_4_regular.png)
 
-+ Python3 エンジニア認定実践試験合格者
+- Python3 エンジニア認定実践試験合格者
 
 ## Skills
 
@@ -105,10 +105,10 @@
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Riya31377928)
 
-+ [Qiita](https://qiita.com/Riya-oshaburikitchin)
-+ [Zenn](https://zenn.dev/riya_amemiya)
-+ [YouTube](https://www.youtube.com/channel/UCzww3KRaSOy7CpWWRXREv1g)
-+ [Amazon](https://www.amazon.jp/hz/wishlist/ls/2TJIXKMK13CIJ?ref_=wl_share)
+- [Qiita](https://qiita.com/Riya-oshaburikitchin)
+- [Zenn](https://zenn.dev/riya_amemiya)
+- [YouTube](https://www.youtube.com/channel/UCzww3KRaSOy7CpWWRXREv1g)
+- [Amazon](https://www.amazon.jp/hz/wishlist/ls/2TJIXKMK13CIJ?ref_=wl_share)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
 
