@@ -69,7 +69,7 @@ My hobby is programming.
 
 ### Tests
 
-[![Tests](https://go-skill-icons.vercel.app/api/icons?i=jest)](https://skillicons.dev)
+[![Tests](https://go-skill-icons.vercel.app/api/icons?i=jest,cypress)](https://skillicons.dev)
 
 ### Databases & ORM
 
@@ -97,9 +97,5 @@ My hobby is programming.
 
 - [Qiita](https://qiita.com/Riya-oshaburikitchin)
 - [Zenn](https://zenn.dev/riya_amemiya)
-- [YouTube](https://www.youtube.com/channel/UCzww3KRaSOy7CpWWRXREv1g)
-- [Amazon](https://www.amazon.jp/hz/wishlist/ls/2TJIXKMK13CIJ?ref_=wl_share)
-
-![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.skyline.svg)
 
 ![Metrics](https://github.com/riya-amemiya/riya-amemiya/blob/main/metrics.plugin.calendar.full.svg)
