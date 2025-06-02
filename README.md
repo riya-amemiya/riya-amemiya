@@ -36,6 +36,7 @@
 - [guidance](https://github.com/guidance-ai/guidance)
 - [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)
 - [pr-agent](https://github.com/Codium-ai/pr-agent)
+- [angular](https://github.com/angular/angular)
 
 ## 資格
 
