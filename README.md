@@ -6,7 +6,7 @@
 
 [English](./README-en.md)
 
-## 私のOSS
+## 自作OSS
 
 - [UMT](https://github.com/riya-amemiya/UMT)
 - [ポートフォリオ](https://github.com/riya-amemiya/links)
