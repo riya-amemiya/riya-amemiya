@@ -36,7 +36,7 @@ My hobby is programming.
 
 ## Skills
 
-### WebFrontend
+### WebFrontend (Area of Expertise, especially TypeScript and React)
 
 #### Languages
 
@@ -72,7 +72,7 @@ My hobby is programming.
 
 [![Tests](https://go-skill-icons.vercel.app/api/icons?i=jest,cypress)](https://skillicons.dev)
 
-### Databases & ORM
+### Databases & ORM (Not my strongest area)
 
 [![Databases&ORM](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,redis,prisma)](https://skillicons.dev)
 

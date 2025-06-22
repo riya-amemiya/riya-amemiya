@@ -46,7 +46,7 @@
 
 ## Skills
 
-### WebFrontend
+### WebFrontend（得意領域、特にTypeScriptとReact）
 
 #### Languages
 
@@ -82,7 +82,7 @@
 
 [![Tests](https://go-skill-icons.vercel.app/api/icons?i=jest,cypress)](https://skillicons.dev)
 
-### Databases & ORM
+### Databases & ORM（あまり得意じゃない）
 
 [![Databases&ORM](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,redis,prisma)](https://skillicons.dev)
 
