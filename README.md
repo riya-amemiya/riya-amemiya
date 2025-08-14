@@ -2,6 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/eae142f3-5e4b-4e20-b3ca-d5d6d5a13e07.svg)](https://wakatime.com/@eae142f3-5e4b-4e20-b3ca-d5d6d5a13e07)
 
+<a href="https://github.com/sponsors/riya-amemiya"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+
 趣味でプログラミングやってます
 
 [English](./README-en.md)
