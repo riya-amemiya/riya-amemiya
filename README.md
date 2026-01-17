@@ -33,6 +33,8 @@
 
 </div>
 
+[![Gitty Score](gitty-code.com/api/badge/riya-amemiya.png)](gitty-code.com/user/riya-amemiya)
+
 ## OSSコントリビューション
 
 - [guidance](https://github.com/guidance-ai/guidance)
