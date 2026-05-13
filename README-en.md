@@ -25,10 +25,7 @@ My hobby is programming.
 
 ## OSS Contributions
 
-- [guidance](https://github.com/guidance-ai/guidance)
-- [ai-pr-reviewer](https://github.com/coderabbitai/ai-pr-reviewer)
-- [pr-agent](https://github.com/Codium-ai/pr-agent)
-- [angular](https://github.com/angular/angular)
+- [V8](https://github.com/v8/v8/commits/main/?author=riya-amemiya)
 
 ## Qualifications
 
