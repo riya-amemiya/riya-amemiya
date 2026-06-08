@@ -16,12 +16,19 @@ My hobby is programming.
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/riyaamemiya.png" alt="TryHackMe">
 
-<p align="left">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact" />
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true" />
-</p>
+![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
 
-<img align="center" height="500px" src="https://wakatime.com/share/@riya_amemiya/4605e65f-821f-4cc1-9b30-7f13f7c356d9.svg" />
+![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
+
+<div style="display: flex;">
+    <div style="margin: 10px;">
+        <img align="center" height="250px" src="https://wakatime.com/share/@riya_amemiya/d0f95094-22a7-4aff-aff7-25a43506cc2f.svg" />
+    </div>
+    <div style="margin: 10px;">
+        <img align="center" height="250px" src = "https://wakatime.com/share/@riya_amemiya/21948023-0285-4b79-ba4d-6c2a8fad15a8.svg"/>
+    </div>
+
+</div>
 
 ## OSS Contributions
 
