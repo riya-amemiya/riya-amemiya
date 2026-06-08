@@ -18,10 +18,9 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/riyaamemiya.png" alt="TryHackMe">
 
-<p align="left">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya-amemiya&hide=css,scss,makefile,html&layout=compact">
-    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=riya-amemiya&count_private=true&show_icons=true">
-</p>
+![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/discord_old_blurple/0-profile-details.svg)
+
+![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/discord_old_blurple/2-most-commit-language.svg)
 
 <div style="display: flex;">
     <div style="margin: 10px;">
@@ -32,6 +31,9 @@
     </div>
 
 </div>
+
+
+
 
 ## OSSコントリビューション
 
