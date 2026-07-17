@@ -25,6 +25,16 @@
 
 ---
 
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/riya-amemiya/riya-amemiya/main/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg)
+```
+
+    
+
+---
+
 ![](./4-productive-time.svg)
 
 ```
