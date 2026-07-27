@@ -11,7 +11,7 @@ jobs:
     name: generate
 
     steps:
-      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
       - uses: vn7n24fzkq/github-profile-summary-cards@39ae44423d8702dfbd64c7f407278fdd7a1b0c75 # v0.11.6
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
