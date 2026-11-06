@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:4B8BF5&height=200&section=header&text=Riya%20Amemiya&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=V8%20Contributor%20%2F%20Platform%20Engineer%20at%20Dinii%20Inc.&descSize=18&descAlignY=58&animation=fadeIn" alt="Riya Amemiya" width="100%" />
 
 [![X](https://img.shields.io/badge/@riya__amemiya-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/riya_amemiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuta-nishi-499738262/)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/riya_amemiya)
 [![connpass](https://img.shields.io/badge/connpass-D93A00?style=for-the-badge)](https://connpass.com/user/riya-amemiya/)
 [![Slides](https://img.shields.io/badge/Slides-2B90B6?style=for-the-badge&logo=slidev&logoColor=white)](https://riya-amemiya.github.io/amemiya_riya_slide_data/)
