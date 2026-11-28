@@ -56,6 +56,7 @@ All of my changes are listed in [the V8 commit history](https://github.com/v8/v8
 | [chtr](https://github.com/riya-amemiya/chtr) | Converts HTML strings into React elements | [![npm](https://img.shields.io/npm/v/chtr?style=flat-square&logo=npm&label=chtr)](https://www.npmjs.com/package/chtr) |
 | [mojiyose](https://github.com/riya-amemiya/mojiyose) | A tiny, dependency-free library that converts between Japanese legacy encodings such as Shift_JIS and UTF-8 | [![npm](https://img.shields.io/npm/v/mojiyose?style=flat-square&logo=npm&label=mojiyose)](https://www.npmjs.com/package/mojiyose) |
 | [happy-cracking](https://github.com/riya-amemiya/happy-cracking) | A CTF toolkit written in Rust with 70+ commands | [![crates.io](https://img.shields.io/crates/v/happy-cracking?style=flat-square&logo=rust&label=happy-cracking)](https://crates.io/crates/happy-cracking) |
+| [Dartel](https://github.com/riya-amemiya/Dartel) | A fast terminal emulator written in Rust that renders on the GPU with wgpu. Runs on Apple Silicon macOS and x86_64 Linux | [![GitHub Release](https://img.shields.io/github/v/release/riya-amemiya/Dartel?style=flat-square&logo=github&label=Dartel)](https://github.com/riya-amemiya/Dartel/releases) |
 | [links](https://github.com/riya-amemiya/links) | Links to my accounts | [Web](https://riya-amemiya-links.tokidux.com/) |
  
 ## 🎤 Talks
