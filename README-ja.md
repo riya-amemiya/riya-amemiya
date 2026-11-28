@@ -56,6 +56,7 @@ V8 の Builtin の高速化と不具合修正をしています。<br/>
 | [chtr](https://github.com/riya-amemiya/chtr) | HTML 文字列を React 要素へ変換するライブラリ | [![npm](https://img.shields.io/npm/v/chtr?style=flat-square&logo=npm&label=chtr)](https://www.npmjs.com/package/chtr) |
 | [mojiyose](https://github.com/riya-amemiya/mojiyose) | Shift_JIS などの日本語レガシーエンコーディングと UTF-8 を相互変換する依存ゼロのライブラリ | [![npm](https://img.shields.io/npm/v/mojiyose?style=flat-square&logo=npm&label=mojiyose)](https://www.npmjs.com/package/mojiyose) |
 | [happy-cracking](https://github.com/riya-amemiya/happy-cracking) | 70 以上のコマンドを備えた Rust 製の CTF ツールキット | [![crates.io](https://img.shields.io/crates/v/happy-cracking?style=flat-square&logo=rust&label=happy-cracking)](https://crates.io/crates/happy-cracking) |
+| [Dartel](https://github.com/riya-amemiya/Dartel) | wgpu で GPU 描画する、Rust 製の高速なターミナルエミュレータ。Apple Silicon の macOS と x86_64 の Linux に対応 | [![GitHub Release](https://img.shields.io/github/v/release/riya-amemiya/Dartel?style=flat-square&logo=github&label=Dartel)](https://github.com/riya-amemiya/Dartel/releases) |
 | [links](https://github.com/riya-amemiya/links) | 各種アカウントへのリンク集 | [Web](https://riya-amemiya-links.tokidux.com/) |
  
 ## 🎤 登壇
